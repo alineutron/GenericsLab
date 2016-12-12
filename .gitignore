@@ -3,3 +3,4 @@ bin/Debug/*.*
 *.manifest
 obj/Debug/*.*
 obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+.vs/GenericsLab/v14/.suo
